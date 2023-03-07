@@ -1,0 +1,165 @@
+.app {
+  background-color: #EBD6FA;
+  margin: 0px;
+}
+
+.page {
+  background-color: #EBD6FA;
+}
+
+.progr {
+  font-family: 'Poppins';
+  font: bold;
+  font-size: 28px;
+  color: #F1EEF3;
+  text-align: center;
+  padding-top: 24px;
+}
+
+.table {
+  width: 83%;
+  border-collapse: collapse;
+  background-color: #7917BB; 
+  font-family: 'Poppins';
+  color: #F1EEF3;
+  margin-top: 40px;
+  margin-left: 200px;
+}
+
+.table th,
+.table td {
+  padding: 0.5rem; 
+  padding-left: 16px;
+}
+
+.table th {
+  text-align: left;
+  font-weight: bold;
+  background-color: #7917BB; 
+  font-family: 'Poppins';
+  color: #F1EEF3;
+}
+
+.table-cont {
+  background-color: #7917BB;
+  padding-bottom: 16px;
+}
+
+.table th.th-file {
+  text-align: left;
+  font-weight: bold;
+  background-color: #F1EEF3; 
+  font-family: 'Poppins';
+  color: #17003B;
+}
+
+.file-cell {
+  background-color: #F1EEF3;  
+  font-family: 'Poppins';
+  color: #17003B;
+}
+
+.btn-outline-danger {
+  background-color: #F1EEF3;  
+  font-family: 'Poppins';
+  color: #17003B;  
+  border-radius: 10px;
+  border: none;
+  margin-right: 16px;
+}
+
+.btn-sm {
+  font-size: 1rem;
+  padding: 8px, 16px;  
+}
+
+.btn-outline-danger:hover {
+  background-color: #EBD6FA;  
+  cursor: pointer;
+}
+
+.header-1 {
+  font-family: 'Poppins';
+  color: #17003B;
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+  background-color: #EBD6FA;
+}
+
+/* add */
+
+.add-w {
+  background-color: #EBD6FA;
+  font-family: 'Poppins';
+  color: #17003B;
+}
+
+.add-form {
+  margin: auto;
+}
+
+.form-col {
+  padding: 48px 64px;
+  border-radius: 30px;
+  background-color: #F1EEF3;
+  font-family: 'Poppins';
+  color: #17003B;
+}
+
+.pic-col {
+  padding-right: 150px;
+}
+
+input[type="file"] {
+  
+}
+
+.add-inps {
+  margin-bottom: 16px;
+  color: #17003B;
+}
+
+.add-inp-w {
+  font-family: 'Poppins';   
+  margin-bottom: 16px;
+  color: #887C8F;
+}
+
+/* edit */
+
+.modal {
+  padding-top: 40px;
+  padding-left: 100px;
+  padding-bottom: 60px;
+  background-color: #F1EEF3; 
+  font-family: 'Poppins';
+  color: #17003B;
+}
+
+.form-group {
+  padding-bottom: 16px;
+}
+
+input[type="number"] {
+  background-color: #FFF;
+  color: #17003B;
+  border: 1px solid #887C8F;
+  border-radius: 3px;
+  font-size: 16px;
+  font-family: 'Poppins';
+  width: 200px;
+}
+
+input[type="date"] {
+  background-color: #FFF;
+  color: #17003B;
+  border: 1px solid #887C8F;
+  border-radius: 3px;
+  font-size: 16px;
+  width: 200px;
+}
+
+.ed-lab {
+  margin-right: 16px;
+}
